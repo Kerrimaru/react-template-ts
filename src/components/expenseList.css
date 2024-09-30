@@ -1,0 +1,12 @@
+.expense-list-container {
+    padding: 40px;
+}
+
+table {
+    margin-top: 16px;
+    width: 100%;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
